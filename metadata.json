@@ -1,0 +1,7 @@
+{
+  "name": "Qnet - Quality Healthcare Platform",
+  "description": "A comprehensive healthcare quality management platform featuring KPIs, QI projects, educational academy, and accreditation tracking.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
